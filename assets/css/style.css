@@ -1,0 +1,49 @@
+:root{
+   --color-blue: hsl(240, 130%, 9%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  font-family: sans-serif;
+}
+
+section{
+  scroll-behavior: smooth;
+  background: #fff;
+  overflow-y: hidden;
+  padding-top: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

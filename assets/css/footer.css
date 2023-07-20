@@ -1,0 +1,31 @@
+.footer--container{
+    text-align: center;
+    padding: 10px 0;
+}
+.footer--ul{
+    margin: 10px 0;
+}
+
+.footer--li{
+    display: inline;
+    margin: 0 10px;
+}
+.footer__lin--icon{
+  color: var(--color-blue);
+}
+.footer--link{
+    font-size: 20px;
+}
+.footer__lin--icon:hover{
+    color: skyblue;
+}
+.footer--text{
+     color: var(--color-blue);
+     font-size: medium;
+     font-weight: 300;
+     text-transform: capitalize;
+}
+.footer__text--icon{
+    color: red;
+    margin: 0 5px;
+}
